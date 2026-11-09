@@ -20,3 +20,5 @@ docker run -v mssql_data:/var/opt/mssql \
     -d mcr.microsoft.com/mssql/server:2022-latest
 
 ```
+
+- install the req > pip install -r requirements.txt
